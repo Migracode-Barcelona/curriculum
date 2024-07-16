@@ -1,0 +1,6 @@
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240713183624-5684630ebfce h1:yOxIPWIlAlTTDMVyALcStD9FtTypd+iJCR8vR4mF3I4=
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240713183624-5684630ebfce/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240713183624-5684630ebfce h1:cQqKKFN9PtI5WzgHF2H+YcssQqqPRPIa7IrFn1P+bHY=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240713183624-5684630ebfce/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
+github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240713183624-5684630ebfce h1:AaHrYcvHgVdavI47jSQcYlY4AuUElKqG1svHSJ7YFDg=
+github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240713183624-5684630ebfce/go.mod h1:ZfIZCi2lHOJ6o3fBKIydXIdtfgJcDrfE0PNLErJNFMs=
