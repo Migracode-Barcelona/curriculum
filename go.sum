@@ -1,6 +1,12 @@
 github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240713183624-5684630ebfce h1:yOxIPWIlAlTTDMVyALcStD9FtTypd+iJCR8vR4mF3I4=
 github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240713183624-5684630ebfce/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240718161830-637899573626 h1:C1yECKnA9CObXi41sVCfMSIcI3AvABOOo+jPkTYENhg=
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240718161830-637899573626/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240713183624-5684630ebfce h1:cQqKKFN9PtI5WzgHF2H+YcssQqqPRPIa7IrFn1P+bHY=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240713183624-5684630ebfce/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240718161830-637899573626 h1:DX3SFor7woJ85aK0riegmFHZA6JHCoihcrStRjbo+qw=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240718161830-637899573626/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240713183624-5684630ebfce h1:AaHrYcvHgVdavI47jSQcYlY4AuUElKqG1svHSJ7YFDg=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240713183624-5684630ebfce/go.mod h1:ZfIZCi2lHOJ6o3fBKIydXIdtfgJcDrfE0PNLErJNFMs=
+github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240718161830-637899573626 h1:QZm8a6Df1hd8WW74FdnanydTyajzwCAEHafct0kxLDo=
+github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240718161830-637899573626/go.mod h1:ZfIZCi2lHOJ6o3fBKIydXIdtfgJcDrfE0PNLErJNFMs=
