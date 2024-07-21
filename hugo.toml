@@ -37,7 +37,10 @@ our_name="MCB"
 org = "https://github.com/Migracode-Barcelona"
 repo = "https://github.com/Migracode-Barcelona/curriculum/"
 root = "curriculum"
-orgapi = "https://api.github.com/repos/Migracode-Barcelona/"
+# We use a proxy which concatenates paginated responses, otherwise we miss results.
+# Daniel is currently hosting this code https://github.com/illicitonion/github-issue-proxy but we should work out a long-term maintainable solution to this problem.
+# The /cached/120 path prefix here caches results for 2 hours to avoid rate limits. Drop the /cached/120 if you need fresh results.
+orgapi = "https://github-issue-proxy.illicitonion.com/cached/120/repos/CodeYourFuture/"
 
 [security.funcs]
 # Allow accessing a GitHub bearer token to avoid rate limits when doing HTTP fetches to the GitHub API.
