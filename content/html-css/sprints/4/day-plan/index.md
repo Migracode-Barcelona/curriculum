@@ -12,9 +12,9 @@ src="blocks/energiser"
 [[blocks]]
 name="Group Introspection"
 src="https://cyf-pd.netlify.app/blocks/introspection-and-setting-smart-goals/readme/"
-[[blocks]]
-name="Progress check-in"
-src="https://github.com/CodeYourFuture/Module-HTML-CSS/issues/181"
+# [[blocks]]
+# name="Progress check-in"
+# src="https://github.com/CodeYourFuture/Module-HTML-CSS/issues/181"
 time="15"
 [[blocks]]
 name="Morning break"

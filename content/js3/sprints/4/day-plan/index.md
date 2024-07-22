@@ -14,17 +14,17 @@ time=10
 name="Morning orientation"
 src="blocks/morning-orientation"
 time=15
-[[blocks]]
-name="Progress check-in"
-src="https://github.com/CodeYourFuture/Module-JS3/issues/245"
-time="15"
+# [[blocks]]
+# name="Progress check-in"
+# src="https://github.com/CodeYourFuture/Module-JS3/issues/245"
+# time="15"
 [[blocks]]
 name="TV Show Project"
 src="blocks/study-group"
 time=45
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS3/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS3/pulls"
 time="0"
 [[blocks]]
 src="blocks/morning-break"
@@ -42,7 +42,7 @@ src="blocks/study-group"
 time=60
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/JS3-Module-Project/pulls"
+src="https://github.com/Migracode-Barcelona/JS3-Module-Project/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"

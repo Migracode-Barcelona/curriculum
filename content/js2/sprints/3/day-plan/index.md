@@ -27,7 +27,7 @@ src="blocks/study-group"
 time=80
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS2/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS2/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"

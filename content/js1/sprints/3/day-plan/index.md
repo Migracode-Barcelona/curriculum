@@ -28,7 +28,7 @@ src="blocks/study-group"
 time="80"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS1/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
@@ -39,7 +39,7 @@ src="blocks/study-group"
 time=50
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS1/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
 time="0"
 [[blocks]]
 name="Retro"

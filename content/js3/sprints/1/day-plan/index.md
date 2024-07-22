@@ -25,7 +25,7 @@ src="blocks/evaluate"
 time=60
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS3/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS3/pulls"
 time="0"
 [[blocks]]
 name="Lunch"
@@ -44,7 +44,7 @@ src="blocks/study-group"
 time=20
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS3/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS3/pulls"
 time="0"
 [[blocks]]
 name="Retrospective"

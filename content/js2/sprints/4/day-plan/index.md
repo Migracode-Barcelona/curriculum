@@ -18,10 +18,10 @@ src="https://cyf-pd.netlify.app/blocks/public-speaking-circles-of-influence/read
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"
-[[blocks]]
-name="Progress check-in"
-src="https://github.com/CodeYourFuture/Module-JS2/issues/66"
-time="15"
+# [[blocks]]
+# name="Progress check-in"
+# src="https://github.com/CodeYourFuture/Module-JS2/issues/66"
+# time="15"
 [[blocks]]
 name="Create Groups For JS3"
 src="https://cyf-pd.netlify.app/blocks/create-groups-for-js3/readme/"

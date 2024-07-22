@@ -32,7 +32,7 @@ name="Study Group"
 src="blocks/study-group"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-React/pulls"
+src="https://github.com/Migracode-Barcelona/Module-React/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
@@ -43,7 +43,7 @@ src="module/react/team-project"
 time="80"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/React-Module-Project/pulls"
+src="https://github.com/Migracode-Barcelona/React-Module-Project/pulls"
 time="0"
 [[blocks]]
 name="Retro"

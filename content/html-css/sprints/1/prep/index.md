@@ -28,12 +28,12 @@ src="https://cyf-pd.netlify.app/blocks/prep-for-feedback/readme/"
 [[blocks]]
 name="Playlist"
 src="https://www.youtube.com/watch?v=mBmX7944vd0&list=PLozA7cloMbPgk5gK8His2CeuJTKofypbV&index=7"
-[[blocks]]
-name="Bikes for Refugees"
-src="https://github.com/CodeYourFuture/bikes-for-refugees/readme"
-[[blocks]]
-name="Prepare for the Devtools workshop"
-src="https://github.com/Migracode-Barcelona/Module-HTML-CSS/issues/11"
+# [[blocks]]
+# name="Bikes for Refugees"
+# src="https://github.com/CodeYourFuture/bikes-for-refugees/readme"
+# [[blocks]]
+# name="Prepare for the Devtools workshop"
+# src="https://github.com/Migracode-Barcelona/Module-HTML-CSS/issues/11"
 [[blocks]]
 name="backlog"
 src="blocks/backlog"

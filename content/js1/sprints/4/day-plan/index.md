@@ -12,10 +12,10 @@ src="blocks/energiser"
 [[blocks]]
 name= "Asking good technical questions"
 src= "https://cyf-pd.netlify.app/blocks/asking-good-technical-questions/readme/"
-[[blocks]]
-name="Progress check-in"
-src="https://github.com/CodeYourFuture/Module-JS1/issues/124"
-time="15"
+# [[blocks]]
+# name="Progress check-in"
+# src="https://github.com/CodeYourFuture/Module-JS1/issues/124"
+# time="15"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
@@ -32,7 +32,7 @@ src="blocks/study-group"
 time="80"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS1/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
@@ -43,7 +43,7 @@ src="blocks/study-group"
 time="50"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS1/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
 time="0"
 [[blocks]]
 name="retro"

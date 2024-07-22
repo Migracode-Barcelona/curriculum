@@ -29,7 +29,7 @@ name="Check-in ➡️ Coordinate"
 src="module/js3/check-in-coordinate"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS3/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS3/pulls"
 time="0"
 [[blocks]]
 name="Lunch"
@@ -51,7 +51,7 @@ src="blocks/study-group"
 time=15
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-JS3/pulls"
+src="https://github.com/Migracode-Barcelona/Module-JS3/pulls"
 time="0"
 [[blocks]]
 name="Retrospective"

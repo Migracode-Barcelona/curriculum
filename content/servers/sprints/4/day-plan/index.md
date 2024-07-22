@@ -31,8 +31,8 @@ src="blocks/afternoon-break"
 name="Sell Yourself"
 src="https://cyf-pd.netlify.app/blocks/sell-yourself/readme/"
 time=90
-[[blocks]]
-name="Progress check-in"
-src="https://github.com/CodeYourFuture/Module-Servers/issues/128"
-time="15"
+# [[blocks]]
+# name="Progress check-in"
+# src="https://github.com/CodeYourFuture/Module-Servers/issues/128"
+# time="15"
 +++

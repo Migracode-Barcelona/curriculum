@@ -22,7 +22,7 @@ src="blocks/study-group"
 time="60"
 [[blocks]]
 name="Code Review"
-src="https://github.com/CodeYourFuture/Module-Servers/pulls"
+src="https://github.com/Migracode-Barcelona/Module-Servers/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
