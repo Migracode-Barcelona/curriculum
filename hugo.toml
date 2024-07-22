@@ -45,8 +45,8 @@ root = "curriculum"
 # We use a proxy which concatenates paginated responses, otherwise we miss results.
 # Daniel is currently hosting this code https://github.com/illicitonion/github-issue-proxy but we should work out a long-term maintainable solution to this problem.
 # The /cached/120 path prefix here caches results for 2 hours to avoid rate limits. Drop the /cached/120 if you need fresh results.
-orgapi = "https://github-issue-proxy.illicitonion.com/cached/120/repos/Migracode-Barcelona/"
-
+#orgapi = "https://github-issue-proxy.illicitonion.com/cached/120/repos/Migracode-Barcelona/"
+orgapi = "https://api.github.com/repos/Migracode-Barcelona/"
 #on production build though we don't want Hugo to cache - only in dev
 [caches.getresource]
 maxAge="0"

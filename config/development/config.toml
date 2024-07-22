@@ -3,7 +3,7 @@
 # Uncomment the following line to run when rate limited or unable to fetch
 #ignoreLogs = ['error-remote-getjson']
 [params]
-#orgapi = "https://api.github.com/repos/Migracode-Barcelona/"
+orgapi = "https://api.github.com/repos/Migracode-Barcelona/"
 [caches.getjson]
 # Cache JSON responses because making fetches is slow when iterating.
 # This means updates to issues (or newly created ones) won't be picked up when rebuilding.
