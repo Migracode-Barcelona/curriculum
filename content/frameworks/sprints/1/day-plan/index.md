@@ -5,51 +5,47 @@ emoji= '🧑🏽‍🤝‍🧑🏽'
 menu_level = ['sprint']
 weight = 3
 backlog= 'Module-React'
-backlog_filter= 'Week 4'
+backlog_filter= 'Week 1'
 [[blocks]]
 name="Orientation"
 src="morning-orientation"
-time=10
+time=15
 [[blocks]]
 name="Energiser"
 src="blocks/energiser"
 time=10
 [[blocks]]
-name="Diversity and Inclusion"
-src="https://cyf-pd.netlify.app/blocks/diversity-and-inclusion/readme/"
+name="Resilience"
+src="https://cyf-pd.netlify.app/blocks/resilience/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
 [[blocks]]
 name="Pokedex Workshop"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/react-pokedex/pokedex-4"
-time="45"
+src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/react-pokedex/pokedex-1"
+time="90"
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
-[[blocks]]
-name="Study Group"
-src="blocks/study-group"
-time="90"
-[[blocks]]
-name="Code Review"
-src="https://github.com/Migracode-Barcelona/Module-React/pulls"
-time="0"
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoon-break"
 [[blocks]]
 name="React Hotel: Working in teams"
 src="module/react/team-project"
 time="60"
 [[blocks]]
 name="Code Review"
+src="https://github.com/Migracode-Barcelona/Module-Frameworks/pulls"
+time="0"
+[[blocks]]
+name="Afternoon break"
+src="blocks/afternoon-break"
+[[blocks]]
+name="Study Group"
+src="blocks/study-group"
+time="70"
+[[blocks]]
+name="Code Review"
 src="https://github.com/Migracode-Barcelona/React-Module-Project/pulls"
 time="0"
-# [[blocks]]
-# name="Progress check-in"
-# src="https://github.com/CodeYourFuture/Module-React/issues/23"
-# time="15"
 [[blocks]]
 name="Retro"
 src="blocks/retro"

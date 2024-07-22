@@ -4,8 +4,6 @@ layout = 'backlog'
 emoji= '🏷️'
 menu_level = ['sprint']
 weight = 2
-backlog= 'Module-React'
+backlog= 'Module-Frameworks'
 backlog_filter= 'Week 1'
 +++
-
-
