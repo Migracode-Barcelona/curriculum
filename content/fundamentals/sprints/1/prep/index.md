@@ -41,35 +41,31 @@ Google Chrome is the first browser we will all use together.
 
 - [ ] I have downloaded and installed Google Chrome.
 - [ ] I have logged into my professional profile on Chrome.
-  <!-- CYF-ONLY -->
-  Use your professional Chrome profile for all your work. You will often have to share your screen during class, so keep your personal internet use private and away from your professional profile.<!-- END-CYF-ONLY -->
+  
 
 ### LinkedIn
 
-Sign up for LinkedIn. LinkedIn is the largest professional social network. You will use it to help you get a job and to advance your career.
+Sign up for LinkedIn [here](https://www.linkedin.com/signup). LinkedIn is the largest professional social network. You will use it to help you get a job and to advance your career.
 
-Make a LinkedIn account. Use your real name. Sign in with Google. Connect with your cohort.
+Make a LinkedIn account. Use your real name. Sign in with Google. Connect with your peers.
 
 <!-- CYF-ONLY -->
 
-Your cohort is your first network, and this is one of the most valuable things you can develop at {{<our-name>}}. A strong, tightly linked, professional network is a powerful asset, so begin building it today.<!-- END-CYF-ONLY -->
+Your peers in the bootcamp are your first network, and this is one of the most valuable things you can develop at {{<our-name>}}. A strong, tightly linked, professional network is a powerful asset, so begin building it today.<!-- END-CYF-ONLY -->
 
 <!-- CYF-ONLY -->
 
 - [ ] I have made a LinkedIn account using my professional email address.
 - [ ] I have used my real name.
-- [ ] I have connected with my cohort.
+- [ ] I have connected with my peers.
 <!-- END-CYF-ONLY -->
 
 ### Slack
 
-Slack is our community space and how we communicate with each other. Download and install it now.
+Slack is our community space and how we communicate with each other. You should have set Slack up during your Onboarding session. If not, [download](https://slack.com/intl/en-gb/team-collaboration-tool?geocode=en-gb&d=7013y000002RWe3AAG&nc=7013y000002aMM8AAM&utm_source=google&utm_medium=paid_search&utm_campaign=EMEA_ES_EN_Evergreen_SLKCON_Google_Slack-PG-ENT-all_BR&utm_content=slack-pg-ent-all-industries-all-mash_slack-%3E-general_collaborating-with-slack_7013y000002RWe3AAG&utm_term=Slack+%3E+General_._slack%20membership_._e_._c_._666766817916&gad_source=1&gclid=EAIaIQobChMIt6b9uPi8hwMVkppQBh2IViJhEAAYAiAAEgJO0_D_BwE&gclsrc=aw.ds) and install it now.
 
 - [ ] I have downloaded the Slack app on my computer and phone.
-- [ ] I have logged in to the Code Your Future Intro to Coding Workspace.
-- [ ] I have found and joined my class channels.
 - [ ] I have updated my profile with my picture, my professional email address, my GitHub username, my Linkedin profile and my class.
-- [ ] I have posted something on my cohort channel.
 
 <!-- CYF-ONLY -->
 
@@ -85,14 +81,12 @@ We use Zoom for remote sessions. Install it now.
 
 ### Code.org
 
-Code.org is a website aimed at helping people learn computer science. You will be doing one of their courses. Register an account now.
+Code.org is a website aimed at helping people learn computer science. You will be doing one of their courses. [Register](https://studio.code.org/users/sign_up) an account now.
 
 - [ ] I have signed up for code.org.
 
 ### VSCode
 
-In ITD, you wrote code in Codepen - an online Integrated Development Environment (IDE). This was really useful, we can save code there and see what it does.
+We will use [Visual Studio Code](https://code.visualstudio.com/) (VSCode), a professional IDE you will use at work.
 
-Now you will use [Visual Studio Code](https://code.visualstudio.com/) (VSCode), a professional IDE you will use at work.
-
-Download and install VSCode - you will be using it in this course.
+[Download](https://code.visualstudio.com/download) and install VSCode - you will be using it in this course.
