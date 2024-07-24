@@ -8,8 +8,8 @@ weight = 11
 backlog= 'Module-Fundamentals'
 [[objectives]]
 1='You have attended every session.'
-2='You have sent your CV to MigraCode.'
-3='You have deployed your website and shared the link with CYF.'
+2='You have sent your CV to MCB.'
+3='You have deployed your website and shared the link with MCB.'
 4='You have added a new feature to your website using CYF Blocks.'#CYF-ONLY
 5='You have completed all coursework assignments.'
 6='You want a good job in tech.'
