@@ -9,12 +9,6 @@ weight = 1
 name="🎉 welcome"
 src="module/how-our-curriculum-works/welcome"
 [[blocks]]
-name="background"
-src="module/how-our-curriculum-works/background"
-[[blocks]]
-name="mission"
-src="module/how-our-curriculum-works/our-mission"
-[[blocks]]
 name="🧭 community-goals"
 src="module/how-our-curriculum-works/community-goals"
 [[blocks]]
