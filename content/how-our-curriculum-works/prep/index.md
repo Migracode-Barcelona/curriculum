@@ -7,7 +7,7 @@ menu_level = ['module']
 weight = 1
 [[blocks]]
 name="🎉 welcome"
-src="module/how-our-curriculum-works/welcome"
+src="welcome-curriculum"
 [[blocks]]
 name="🧭 community-goals"
 src="module/how-our-curriculum-works/community-goals"
