@@ -15,7 +15,7 @@ name="Importance of PD"
 src="https://cyf-pd.netlify.app/blocks/fundamentals-test/readme/"
 [[blocks]]
 name="Code of Conduct"
-src="https://cyf-pd.netlify.app/blocks/lets-talk-about-our-code-of-conduct/readme/"
+src="codeOfConduct"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
