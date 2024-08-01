@@ -4,18 +4,18 @@
 
 This is a white label multi-tenant platform for us and our code school friends to use to manage our curricula. It's built on top of [Hugo](https://gohugo.io/) and [Netlify CMS](https://www.netlifycms.org/).
 
-The platform, layout, styles and components are all developed in the Hugo module [/common-theme](/common-theme).
+The platform, layout, styles and components are all developed in the Hugo module common-theme, mounted in hugo.toml
 
-The shared content is developed in the Hugo module [/common-content](/common-content). This content is all headless blocks. It doesn't create any pages on your site unless you call it somewhere.
+The shared content is developed in the Hugo module common-content, mounted in hugo.toml. This content is all headless blocks. It doesn't create any pages on your site unless you call it somewhere.
 
 Multi-language support is provided by [Hugo's i18n support](https://gohugo.io/content-management/multilingual/).
 
-Each org builds its own Hugo site that uses the common theme and content modules, and then makes any customisations they need and deploys it wherever they want.
+Each org builds its own Hugo site that uses the common theme and content modules, and then makes any customisations they need and hosts and deploys it wherever they want.
 
 ## Examples
 
 - [CodeYourFuture](https://github.com/CodeYourFuture/curriculum) => [https://curriculum.codeyourfuture.io/](https://curriculum.codeyourfuture.io/)
-- [MigraCode](./) => [https://curriculum.codeyourfuture.io/](https://curriculum.codeyourfuture.io/)
+- [MigraCode](./) => [https://curriculum.migracode.org/](https://curriculum.migracode.org/)
 
 ## To customise this site's look or content
 
@@ -44,7 +44,7 @@ For each module you import, add a `replace` directive to your `go.mod` file - if
 ### To install
 
 ```bash
-brew install hugo
+brew install go hugo
 ```
 
 ### To run locally
