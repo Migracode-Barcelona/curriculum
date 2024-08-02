@@ -26,9 +26,6 @@ src="blocks/lunch"
 name="Using the Slack app"
 src="https://cyf-pd.netlify.app/blocks/using-the-slack-app/readme/"
 [[blocks]]
-name="Slack Rota"
-src="https://cyf-pd.netlify.app/blocks/set-up-a-google-sheet-so-we-can-organise-a-slack-posting-rota/readme/"
-[[blocks]]
 name="pairing"
 src="module/fundamentals/pairing"
 [[blocks]]
