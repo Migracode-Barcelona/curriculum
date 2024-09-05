@@ -9,17 +9,14 @@ backlog_filter= 'Week 1'
 [[blocks]]
 name="Energiser"
 src="blocks/energiser"
+time="30"
 [[blocks]]
-name="Welcome to Code Your Future"
-src="https://youtu.be/QBfhPkBW9Pk"
+name="Welcome to MigraCode Barcelona"
+src="https://www.youtube.com/watch?v=775DVZ2smzk&t"
 [[blocks]]
 name="Goals and expectations"
-src="https://cyf-pd.netlify.app/blocks/goals-and-expectations-on-the-software-development-course/readme/"
-time="60"
-[[blocks]]
-name="Learning as Community"        
-src="module/induction/learning-as-community"
-time="70"
+src="blocks/goalsAndExpectations"
+time="80"
 [[blocks]]
 name="Availability"
 src="https://cyf-pd.netlify.app/blocks/general-weekly-availability/readme/"
@@ -34,10 +31,7 @@ src="blocks/lunch"
 [[blocks]]
 name="Git workshop"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/git-day-1"
-time="120"
-[[blocks]]
-name="Next steps"
-src="module/induction/next-steps"
+time="160"
 [[blocks]]
 name="Retro"
 src="blocks/retro"
