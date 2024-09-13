@@ -26,7 +26,7 @@ name="Study Group 1"
 src="blocks/study-group"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Study Group 2"
 src="blocks/study-group"

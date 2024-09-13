@@ -26,7 +26,7 @@ src="https://github.com/Migracode-Barcelona/Module-HTML-CSS/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Transferable skills"
 src="https://cyf-pd.netlify.app/blocks/transferable-skills/readme/"

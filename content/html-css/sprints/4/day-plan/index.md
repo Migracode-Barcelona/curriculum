@@ -40,7 +40,7 @@ src="blocks/study-group"
 time="90"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Components Workshop"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/components-1"

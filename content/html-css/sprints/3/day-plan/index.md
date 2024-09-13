@@ -28,7 +28,7 @@ src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/get-forms"
 time="120"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
