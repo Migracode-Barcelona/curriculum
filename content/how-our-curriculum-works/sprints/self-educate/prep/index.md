@@ -23,7 +23,4 @@ src="module/how-our-curriculum-works/importance-of-prep"
 [[blocks]]
 name="workshops"
 src="module/how-our-curriculum-works/workshops"
-[[blocks]]
-name="builder mindset"
-src="module/how-our-curriculum-works/builder-mindset"
 +++

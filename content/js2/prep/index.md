@@ -5,5 +5,10 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['module']
 weight = 1
-backlog= 'Module-JS2'
+[[blocks]]
+name="Prep dir"
+src="blocks/prep-dir"
+[[blocks]]
+name="Creating test files"
+src="blocks/prep-dir-tests"
 +++
