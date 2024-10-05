@@ -15,36 +15,29 @@ src="https://cyf-pd.netlify.app/blocks/introspection-and-setting-smart-goals/rea
 # [[blocks]]
 # name="Progress check-in"
 # src="https://github.com/CodeYourFuture/Module-HTML-CSS/issues/181"
-time="15"
+time="45"
+[[blocks]]
+name="Create groups for JS1"
+src="https://cyf-pd.netlify.app/blocks/create-groups/readme/"
+time=20
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
 [[blocks]]
-name="Setting SMART goals"
-src="https://cyf-pd.netlify.app/blocks/setting-smart-goals/readme/"
-time=20
-[[blocks]]
-name="Create groups for JS1"
-src="https://cyf-pd.netlify.app/blocks/create-groups/readme/"
-time=10
-[[blocks]]
-name="Study Group"
-src="blocks/study-group"
-time="45"
+name="MWT Workshop"
+src="blocks/mwt"
+time="120"
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
+# [[blocks]]
+# name="Components Workshop"
+# src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/components-1"
+# time=120
 [[blocks]]
-name="Study Group"
-src="blocks/study-group"
-time="90"
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoonBreak"
-[[blocks]]
-name="Components Workshop"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/components-1"
-time=120
+name="Collaborative Web Build"
+src="blocks/collaborative-web-build"
+time="105"
 [[blocks]]
 name="Retro"
 src="blocks/retro"
