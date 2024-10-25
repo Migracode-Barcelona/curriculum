@@ -32,6 +32,12 @@ src="module/js3/rendering-based-on-state"
 name="Capturing events"
 src="module/js3/capturing-events"
 [[blocks]]
+name="Re-rendering"
+src="module/js3/re-rendering"
+[[blocks]]
+name="Actually re-rendering"
+src="module/js3/actually-re-rendering"
+[[blocks]]
 name= "Gathering requirements"
 src="https://cyf-pd.netlify.app/blocks/gathering-requirements-prep/readme/"
 +++
