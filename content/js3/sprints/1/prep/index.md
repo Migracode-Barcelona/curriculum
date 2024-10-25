@@ -37,6 +37,9 @@ src="module/js3/one-to-one"
 name="using-map"
 src="module/js3/using-map"
 [[blocks]]
+name="Applying map"
+src="module/js3/applying-map"
+[[blocks]]
 name= "Prep Teamwork Project"
 src= "https://cyf-pd.netlify.app/blocks/prep-teamwork-project/readme/"
 +++

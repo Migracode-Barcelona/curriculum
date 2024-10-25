@@ -34,6 +34,12 @@ name="feedback"
 src="module/js1/generalise"
 name="generalise"
 [[blocks]]
+src="module/js1/anonymous-functions"
+name="Anonymous functions"
+[[blocks]]
+src="module/js1/arrow-functions"
+name="Arrow functions"
+[[blocks]]
 name= "Asking good questions"
 src= "https://cyf-pd.netlify.app/blocks/prep-asking-good-questions/readme/"
 +++

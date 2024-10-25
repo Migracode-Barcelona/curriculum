@@ -37,6 +37,9 @@ src="module/js2/mutation"
 name="side-effects"
 src="module/js2/side-effects"
 [[blocks]]
+name="Implementing all the cases"
+src="module/js2/more-median-cases"
+[[blocks]]
 name="Failing Fast"
 src="https://cyf-pd.netlify.app/blocks/fail-fast-prep/readme/"
 +++
