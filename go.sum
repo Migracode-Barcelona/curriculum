@@ -16,6 +16,8 @@ github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240827185108-33102c
 github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240827185108-33102c6b0ff2/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
 github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240924110806-9884645a8587 h1:bS/m8iPwSo3wp1oYkV+v47f9gyVmc3RPqzIL/EXHSV8=
 github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240924110806-9884645a8587/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20241025093535-4f8508cdd55a h1:vLI7IhBacpm8P0chq9V52pJBOy9HoknI0lzooWQ2rZ4=
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20241025093535-4f8508cdd55a/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240713183624-5684630ebfce h1:cQqKKFN9PtI5WzgHF2H+YcssQqqPRPIa7IrFn1P+bHY=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240713183624-5684630ebfce/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240718161830-637899573626 h1:DX3SFor7woJ85aK0riegmFHZA6JHCoihcrStRjbo+qw=
@@ -28,6 +30,8 @@ github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240827185108-33102c6b
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240827185108-33102c6b0ff2/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240924110806-9884645a8587 h1:OF/SppAGaflb5lN7hi19ypucmImNLaDOO9E1DgMEO/s=
 github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240924110806-9884645a8587/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20241025093535-4f8508cdd55a h1:7fhAtywCtMt3Qx7rEcRkZQ5QN75dOKiRKPZ+Bf+eBQw=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20241025093535-4f8508cdd55a/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240713183624-5684630ebfce h1:AaHrYcvHgVdavI47jSQcYlY4AuUElKqG1svHSJ7YFDg=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240713183624-5684630ebfce/go.mod h1:ZfIZCi2lHOJ6o3fBKIydXIdtfgJcDrfE0PNLErJNFMs=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240718161830-637899573626 h1:QZm8a6Df1hd8WW74FdnanydTyajzwCAEHafct0kxLDo=
@@ -40,3 +44,5 @@ github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240827185108-33102c
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240827185108-33102c6b0ff2/go.mod h1:7EBadJB9OQSvx72Xhm4wN8reQYSwFNzbsiXtMhLuUQ4=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240924110806-9884645a8587 h1:kB1PKg/snPGACuGd7qjR6wtlpg4KtLeLiXk5qbZDUHo=
 github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20240924110806-9884645a8587/go.mod h1:7EBadJB9OQSvx72Xhm4wN8reQYSwFNzbsiXtMhLuUQ4=
+github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20241025093535-4f8508cdd55a h1:j9mVxcq/UGvy3GZQlR87Cc932oEhfHyGCtNbAknrxiE=
+github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20241025093535-4f8508cdd55a/go.mod h1:7EBadJB9OQSvx72Xhm4wN8reQYSwFNzbsiXtMhLuUQ4=
