@@ -12,19 +12,20 @@ src="blocks/energiser"
 [[blocks]]
 name="Roles in the tech industry"
 src="https://cyf-pd.netlify.app/blocks/roles-in-the-tech-industry/readme/"
+time=60
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"
 [[blocks]]
 name="Playing computer"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/playing-computer"
-time=85
+time=80
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
 [[blocks]]
 name="Study Group"
-src="blocks/study-group"
+src="blocks/mwt"
 time=80
 [[blocks]]
 name="Code Review"
@@ -32,7 +33,7 @@ src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
