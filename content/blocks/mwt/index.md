@@ -11,7 +11,7 @@ hide_from_overview=true
 
 ## Most Wanted Topics 🔥
 
-Great news! After gathering your feedback from past retros and experimenting last week, **we’re officially incorporating a new element into the curriculum!**
+Great news! After gathering your feedback from past retros, **we’re officially incorporating a new element into the curriculum!**
 
 Your instructor will soon share a link to the RetroTool board. There, you can post stickers on topics you’re finding challenging. The topic with the most votes will be the focus of our workshop! If time allows, we’ll dive into the 2nd, 3rd and even more voted topics.
 

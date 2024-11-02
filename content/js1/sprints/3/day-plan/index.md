@@ -10,37 +10,29 @@ backlog_filter= 'Week 3'
 name="Energiser"
 src="blocks/energiser"
 [[blocks]]
-name="Growth Mindset"
-src="https://cyf-pd.netlify.app/blocks/growth-mindset/readme/"
+name=" Discover Your Learning Style"
+src="blocks/learning-method"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
 [[blocks]]
-name="Triangles"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/triangles"
-time="85"
+name="MWT Workshop"
+src="blocks/mwt"
+time="90"
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
 [[blocks]]
-name="Study Group"
-src="blocks/study-group"
-time="80"
-[[blocks]]
-name="Code Review"
-src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
-time="0"
+name="Coding Workshop"
+src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/triangles"
+time="85"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
 time=50
-[[blocks]]
-name="Code Review"
-src="https://github.com/Migracode-Barcelona/Module-JS1/pulls"
-time="0"
 [[blocks]]
 name="Retro"
 src="blocks/retro"
