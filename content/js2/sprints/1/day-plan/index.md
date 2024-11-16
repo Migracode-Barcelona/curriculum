@@ -10,38 +10,35 @@ backlog_filter= 'Week 1'
 name="Energiser"
 src="blocks/energiser"
 [[blocks]]
-name="Failing Fast"
-src="https://cyf-pd.netlify.app/blocks/failing-fast/readme/"
+name="MWT Workshop"
+src="blocks/mwt"
+time="90"
+# [[blocks]]
+# name="Failing Fast"
+# src="https://cyf-pd.netlify.app/blocks/failing-fast/readme/"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"
 [[blocks]]
-name="🔍 Explore arrays"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/arrays"
-time=85
+name="Study Group"
+src="blocks/study-group"
+time=80
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
 [[blocks]]
-name="Study Group"
-src="blocks/study-group"
-time=80
+name="🔍 Explore arrays"
+src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/arrays"
+time=60
 [[blocks]]
 name="Code Review"
 src="https://github.com/Migracode-Barcelona/Module-JS2/pulls"
 time="0"
 [[blocks]]
 name="Afternoon break"
-src="blocks/afternoon-break"
+src="blocks/afternoonBreak"
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
-time=50
-[[blocks]]
-name="Code Review"
-src="https://github.com/Migracode-Barcelona/Module-JS2/pulls"
-time="0"
-[[blocks]]
-name="Retro"
-src="blocks/retro"
+time=80
 +++
