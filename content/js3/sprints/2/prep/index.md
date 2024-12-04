@@ -6,7 +6,7 @@ emoji= '📝'
 menu_level = ['sprint']
 weight = 1
 backlog= 'Module-JS3'
-backlog_filter= 'Week 2'
+backlog_filter= '📅 Week 2'
 [[blocks]]
 name="Reacting"
 src="module/js3/reacting"

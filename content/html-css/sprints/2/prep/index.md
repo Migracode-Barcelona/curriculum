@@ -5,7 +5,7 @@ emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
 backlog= 'Module-HTML-CSS'
-backlog_filter= 'Week 2'
+backlog_filter= '📅 Week 2'
 # [[blocks]]
 # name="Prepare for the Asking Questions Workshop"
 # src="https://github.com/CodeYourFuture/Module-HTML-CSS/issues/46"

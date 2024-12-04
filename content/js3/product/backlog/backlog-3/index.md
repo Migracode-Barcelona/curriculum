@@ -5,5 +5,5 @@ emoji= '🏷️'
 menu_level = ['subdir']
 weight = 3
 backlog= 'JS3-Module-Project'
-backlog_filter= 'Week 3'
+backlog_filter= '📅 Week 3'
 +++

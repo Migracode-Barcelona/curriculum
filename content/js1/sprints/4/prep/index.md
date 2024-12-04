@@ -5,7 +5,7 @@ emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
 backlog= 'Module-JS1'
-backlog_filter= 'Week 4'
+backlog_filter= '📅 Week 4'
 [[blocks]]
 src="module/js1/ordinal"
 name="ordinal"
