@@ -5,7 +5,6 @@ layout = "prep"
 emoji= "📝"
 menu_level = ["module"]
 weight = 1
-backlog= "Course-Fundamentals"
 [[blocks]]
 name="Getting Started"
 src="getting-started"
@@ -19,4 +18,3 @@ src="https://github.com/Migracode-Barcelona/Coursework-Planner/tree/main"#CYF-ON
 name="Make your Planning Board"
 src="https://www.youtube.com/watch?v=Hbtfil-G0h0"#CYF-ONLY
 +++
-
