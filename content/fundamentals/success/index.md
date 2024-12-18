@@ -5,7 +5,6 @@ layout = 'success'
 emoji= '✅'
 menu_level = ['module']
 weight = 11
-backlog= 'Module-Fundamentals'
 [[objectives]]
 1='You have attended every session.'
 2='You have sent your CV to MCB.'

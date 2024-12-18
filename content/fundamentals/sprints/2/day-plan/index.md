@@ -5,8 +5,6 @@ layout = 'day-plan'
 emoji= '🧑🏽‍🤝‍🧑🏽'
 menu_level = ['sprint']
 weight = 3
-backlog= 'Module-Fundamentals'
-backlog_filter= '📅 Week 2'
 [[blocks]]
 name="Discovering blockers"
 src="blocks/blockers"

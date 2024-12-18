@@ -4,8 +4,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-JS2'
-backlog_filter= '📅 Week 1'
 [[blocks]]
 name="grouping-data"
 src="module/js2/grouping-data"

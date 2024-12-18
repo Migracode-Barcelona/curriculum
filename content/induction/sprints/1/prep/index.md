@@ -5,8 +5,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-Induction'
-backlog_filter= 'Induction'
 [[blocks]]
 name="cyf blog"
 src="module/induction/cyf-blog"

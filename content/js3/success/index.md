@@ -5,7 +5,6 @@ layout = "success"
 emoji= "✅"
 menu_level = [ "module" ]
 weight = 11
-backlog= "Module-JS3"
 [[objectives]]
 1="Every trainee has received and responded to at least one code review"
 2="Every trainee has deployed their pair-coded JS3 Module Project, having completed levels 100 to 500"

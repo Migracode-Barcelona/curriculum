@@ -5,8 +5,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-JS1'
-backlog_filter= '📅 Week 1'
 [[blocks]]
 name="Interface"
 src="module/js1/interface"

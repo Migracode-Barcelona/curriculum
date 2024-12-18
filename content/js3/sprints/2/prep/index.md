@@ -5,8 +5,6 @@ description= 'Take a template and populate it with data; then update the data in
 emoji= '📝'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-JS3'
-backlog_filter= '📅 Week 2'
 [[blocks]]
 name="Reacting"
 src="module/js3/reacting"

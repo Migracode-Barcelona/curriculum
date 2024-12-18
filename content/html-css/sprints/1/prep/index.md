@@ -4,8 +4,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-HTML-CSS'
-backlog_filter= '📅 Week 1'
 [[blocks]]
 name="Recap HTML and CSS"
 src="module/html-css/recap-html-css"

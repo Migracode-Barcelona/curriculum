@@ -4,8 +4,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-JS3'
-backlog_filter= '📅 Week 1'
 [[blocks]]
 name="data to ui"
 src="module/js3/data-ui"

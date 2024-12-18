@@ -4,8 +4,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-HTML-CSS'
-backlog_filter= '📅 Week 3'
 [[blocks]]
 name="Forms in 25 minutes"
 src="https://www.youtube.com/watch?v=fNcJuPIZ2WE"

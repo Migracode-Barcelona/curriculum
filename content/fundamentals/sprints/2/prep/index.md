@@ -5,8 +5,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Course-Fundamentals'
-backlog_filter= '📅 Week 2'
 [[blocks]]
 name="overcoming-blockers"
 src="module/fundamentals/overcoming-blockers"

@@ -5,8 +5,6 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-backlog= 'Module-HTML-CSS'
-backlog_filter= '📅 Week 4'
 # [[blocks]]
 # name="Check your setup"
 # src="https://github.com/CodeYourFuture/Module-HTML-CSS/issues/53"
