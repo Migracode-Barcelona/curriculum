@@ -1,5 +1,7 @@
 # Curriculum Platform
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/73050c8a-b1cc-4caf-840a-76ef22e2bfd6/deploy-status)](https://app.netlify.com/sites/migracode/deploys)
+
 ## What is it?
 
 This is a white label multi-tenant platform for us and our code school friends to use to manage our curricula. It's built on top of [Hugo](https://gohugo.io/) and [Netlify CMS](https://www.netlifycms.org/).
@@ -51,7 +53,7 @@ brew install go hugo
 
 #### Generate a token
 
-You'll need to get a fine-grained GitHub API token which allows read-only access to all public CYF repos from [this page](https://github.com/settings/tokens?type=beta).
+You'll need to get a fine-grained GitHub API token which allows read-only access to all public repos from [this page](https://github.com/settings/tokens?type=beta).
 
 Click "Generate new token", enter a token name (can be anything), and how long you want the token to last (if you're doing a one-off contribution, pick a short value; if you're going to be a regular contributor, maybe a longer value).
 
