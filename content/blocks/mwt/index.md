@@ -6,8 +6,7 @@ hide_from_overview=true
 +++
 
 {{<tabs name="mwt">}}
-
-{{<tab name="Most Wanted Topics">}}
+===[[Most Wanted Topics]]===
 
 ## Most Wanted Topics 🔥
 
@@ -17,9 +16,7 @@ Your instructor will soon share a link to the RetroTool board. There, you can po
 
 Don’t forget to **take short break** 🧘‍♂️ during the session happy coding! 
 
-{{</tab>}}
-
-{{<tab name="Use time wisely">}}
+===[[Use time wisely]]===
 
 ## Use this time wisely 🎯
 
@@ -34,8 +31,5 @@ To make the most out of this workshop and ensure you're getting the best value, 
 - **Apply Immediately:** After the workshop, try to implement what you’ve learned in your course work or personal projects. Practical application reinforces your learning.
 
 - **Follow-Up:** If a topic wasn’t fully covered or you still have doubts, follow up with your instructor or peers after the session. This ensures no questions are left unanswered.
-
-{{</tab>}}
-
 
 {{</tabs>}}
