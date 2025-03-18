@@ -3,7 +3,7 @@ title = 'Getting Started'
 description = "Get started with your basic setup"
 +++
 {{<tabs name="prep">}}
-{{<tab name="Getting Started">}}
+===[[Getting Started]]===
 
 ## Getting Started
 
@@ -44,10 +44,6 @@ github.com/**Migracode-Barcelona**/Coursework-Planner/.
 It is essential that you fork repositories from **MigraCode-Barcelona** as there are slight changes in the two curriculums.
 {{</note>}}
 
-{{< /tab >}}
-
-{{<tab name="📼 Watch: What is GitHub">}}
+===[[📼 Watch: What is GitHub]]===
 {{< youtube >}}https://www.youtube.com/watch?v=pBy1zgt0XPc{{< /youtube >}}
-{{</tab>}}
-
 {{</tabs>}}
